@@ -1,7 +1,5 @@
 # SciPy 2019 conference report
 
-jupyter nbconvert scipy-2019-report.ipynb --to slides --post serve
+SciPy 2019 conveference, Austin, Texas.
 
-jupyter-nbconvert --to slides scipy-2019-report.ipynb --reveal-prefix=reveal.js
-
-
+[See the slides!](https://genevievebuckley.github.io/scipy-2019-report/)
